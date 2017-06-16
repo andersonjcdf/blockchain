@@ -5,6 +5,8 @@ Tutorial para acesso a Ficha Pessoal
 
 MAC / LINUX
 
+OBS.: Cuidado ao copiar e colar os comandos abaixo no terminal, normalmente as aspas não são reconhecidas de maneira correta e pode informar um erro em seu código.
+
 1 - Baixe os arquivos (fichaPessoal.js e package.json) para a pasta blockchain
 2 - Via terminal, acesse a pasta blockchain e digite o comando abaixo:
 
