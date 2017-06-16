@@ -31,7 +31,7 @@ HTTP_PORT=4444 P2P_PORT=5555 PEERS=ws://localhost:3333 npm start
 
 6 - Para criar mais um bloco, digite:
 
-curl -H "Content-type:application/json" --data ‘{“cpf” : “123.456.789-10”}’ http://localhost:3001/mineBlock
+curl -H "Content-type:application/json" --data ‘{“cpf” : “123.456.789-10”}’ http://localhost:2222/mineBlock
 
 Obs.: Adicione mais parâmetros separando por vírgulas. São eles: nome, apelido, nomeMae, endereço e telefone.
 
