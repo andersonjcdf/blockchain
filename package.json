@@ -1,0 +1,18 @@
+{
+  "name": "fichaPessoal",
+  "version": "1.0.0",
+  "description": "Cadastro de ficha pessoal com blockchain",
+  "author": "Anderson Jefferson Cerqueira",
+  "scripts": {
+    "start": "node fichaPessoal.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "crypto-js": "^3.1.8",
+    "express": "^4.11.2",
+    "ws": "^1.1.4"
+  },
+  "engines": {
+    "node": ">=4.3.2"
+  }
+}
