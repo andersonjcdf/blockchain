@@ -25,6 +25,10 @@ npm -v
 
 HTTP_PORT=2222 P2P_PORT=3333 npm start
 
+Obs.: Caso tenha algum problema de não encontrar o modulo 'debug', digite o comando abaixo:
+
+rm -rf node_modules; npm cache clear; npm install
+
 5 - Para iniciar um peer, digite:
 
 HTTP_PORT=4444 P2P_PORT=5555 PEERS=ws://localhost:3333 npm start
